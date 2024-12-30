@@ -7,5 +7,7 @@
   - 半截钥匙
 其中，后两篇都没写完。
 
-- 下载方式：
-  下载链接：
+- 下载方式
+  
+  [下载链接](https://github.com/Yuri-Kon/MyEbook/raw/refs/heads/main/2024%20-%20yurikon.epub)
+  
